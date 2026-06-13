@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Welcome to Steve's blog!
 ---
+
+This is my great blog.
